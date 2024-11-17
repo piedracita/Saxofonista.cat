@@ -4,14 +4,14 @@
 <head>
 
 	<!-- COMMON-HEAD -->
-	<!-- <?php include "common-php/head.html"; ?> -->
+	<?php include "common-php/head.html"; ?>
 	<!-- COMMON-HEAD END -->
 
 	<!-- CANONICAL -->
 	<link rel="canonical" href="https://www.saxofonista.cat/">
 
 	<!-- COMMON-LOCALIZATION -->
-	<!--<?php include "common-php/localization/main.html"; ?>-->
+	<?php include "common-php/localization/main.html"; ?>
 	<!-- COMMON-LOCALIZATION END -->
 
 	<!-- SITE INFORMATION -->
@@ -22,7 +22,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- COMMON-OPENGRAPH -->
-	<!--<?php include "common-php/opengraph/es.html"; ?> -->
+	<?php include "common-php/opengraph/es.html"; ?>
 	<!-- COMMON-OPENGRAPH END -->
 
 </head>

@@ -80,11 +80,12 @@
 									<h3></h3>
 								</div>
 								<div class="text">
-									<p>I am a Web Designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
+									<p>Me llamo Arnald y soy <strong>saxofonista profesional</strong>, a lo largo de mi carrera he participado de muchísimos <strong>eventos</strong> como saxofonista, actuando en <strong>bodas</strong>, fiestas privadas, Grandes premios como la <strong>Fórmula 1</strong> y más. Me encanta actuar tocando el <strong>saxofón en eventos</strong> y me llena muchísimo ver vuestras caras de felicidad disfrutando con la música, me siento muy afortunado.</p>
+									<p>En esta página encontraréis todo lo relacionado a los distintos <strong>eventos, fiestas y bodas</strong> en las que participo como saxofonista, así como la información sobre <strong>contratación</strong> para eventos, <strong>precios</strong> y material audiovisual.</p>
 								</div>
-								<div class="arlo_tm_button" data-position="left">
+								<!--<div class="arlo_tm_button" data-position="left">
 									<a href="img/cv/1.jpg" download><span>Download CV</span></a>
-								</div>
+								</div>-->
 							</div>
 						</div>
 					</div>
@@ -104,26 +105,26 @@
 							<ul>
 								<li>
 									<div class="list_inner">
-										<h3><span class="tm_counter" data-from="0" data-to="777" data-speed="1500">0</span></h3>
-										<span class="title">Projects Completed</span>
+										<h3><span class="tm_counter" data-from="0" data-to="527" data-speed="1500">0</span></h3>
+										<span class="title">Eventos con Saxofonista</span>
 									</div>
 								</li>
 								<li>
 									<div class="list_inner">
-										<h3><span class="tm_counter" data-from="0" data-to="800" data-speed="1500">0</span>+</h3>
-										<span class="title">Happy Clients</span>
+										<h3><span class="tm_counter" data-from="0" data-to="230" data-speed="1500">0</span>+</h3>
+										<span class="title">Bodas con música en directo</span>
 									</div>
 								</li>
 								<li>
 									<div class="list_inner">
-										<h3><span class="tm_counter" data-from="0" data-to="450" data-speed="1500">0</span>K+</h3>
-										<span class="title">Lines of Code</span>
+										<h3><span class="tm_counter" data-from="0" data-to="270" data-speed="1500">0</span>K+</h3>
+										<span class="title">Cancione en mi repertorio</span>
 									</div>
 								</li>
 								<li>
 									<div class="list_inner">
 										<h3><span class="tm_counter" data-from="0" data-to="100" data-speed="1500">0</span>%</h3>
-										<span class="title">Satisfaction Guarantee</span>
+										<span class="title">Calidad garantizada</span>
 									</div>
 								</li>
 							</ul>
@@ -138,8 +139,9 @@
 				<div class="arlo_tm_services">
 					<div class="container">
 						<div class="arlo_tm_main_title">
-							<span>Services</span>
-							<h3>Eventos</h3>
+							<span>Servicios</span>
+							<h3>Saxofonista para Eventos</h3>
+							<p>Nos encanta encontrar momentos para celebrar, ¿verdad? Existen muchísimos tipos de eventos, y en todos ellos la <strong>música en directo</strong> juega un papel súper importante. En esta parte os detallo algunos de los <strong>eventos con saxofonista</strong> que más me solicitan, por supuesto adaptando el repertorio e interpretación para cada tipo de show. Inspírate para crear el evento perfecto y, por supuesto, para cualquier duda nos puedes <b>contactar directamente</b>, trataremos de ayudarte y ofrecerte el mejor servicio.</p>
 						</div>
 						<div class="service_list">
 							<ul>
@@ -147,8 +149,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/anchor.svg" alt="" /></span>
-											<h3 class="title">Creative Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Eventos Cocktail</h3>
+											<p class="text">La perfecta <strong>amenización</strong> para el saxofón live, desde formatos <strong>Jazz Moderno</strong> a House.</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -157,9 +159,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>La perfecta <strong>amenización</strong> para el saxofón live, desde formatos <strong>Jazz Moderno</strong> a House.</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -171,8 +173,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
-											<h3 class="title">Graphic Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Moda y Fashion</h3>
+											<p class="text">Elegante, sofisticado y moderno, estas són las claves para tu <strong>saxo en directo</strong> sea el match perfecto para tu evento [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -181,9 +183,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Elegante, sofisticado y moderno, estas són las claves para tu <strong>saxo en directo</strong> sea el match perfecto para tu evento [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -195,8 +197,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/contact.svg" alt="" /></span>
-											<h3 class="title">UI/UX Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Eventos DJ & SAX</h3>
+											<p class="text">Desde terrazas <strong>chill-out</strong> a fiestas de <strong>música electrónica</strong>, el <strong></strong> lucirá espectacular [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -205,9 +207,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Desde terrazas chill-out a fiestas de música electrónica, el saxo electrónico lucirá espectacular [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -219,8 +221,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
-											<h3 class="title">Web Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Saxofonista Jazz</h3>
+											<p class="text">El instrumento más icónico de la <strong>música jazz</strong> es el saxo,te contamos como hacer para tener a un <strong>grupo de jazz</strong> en tu evento.</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -229,9 +231,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>El instrumento más icónico de la <strong>música jazz</strong> es el saxo,te contamos como hacer para tener a un <strong>grupo de jazz</strong> en tu evento.</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -243,8 +245,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/diagram.svg" alt="" /></span>
-											<h3 class="title">SEO Marketing</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Grupos de música</h3>
+											<p class="text">Posibilidad de actuar en grupo con <strong>los mejores músicos</strong> y en distintos formatos</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -253,9 +255,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Posibilidad de actuar en grupo con <strong>los mejores músicos</strong> y en distintos formatos</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -267,8 +269,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
-											<h3 class="title">Mobile App</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Músico Solista</h3>
+											<p class="text">El formato más versátil y asequible, actuando como <strong>Saxo Solista</strong> junto bases musicales</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 									
@@ -277,9 +279,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>El formato más versátil y asequible, actuando como <strong>Saxo Solista</strong> junto bases musicales</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -299,8 +301,9 @@
 				<div class="arlo_tm_services">
 					<div class="container">
 						<div class="arlo_tm_main_title">
-							<span>Services</span>
-							<h3>Bodas</h3>
+							<span>Servicios</span>
+							<h3>Saxofonista para Bodas</h3>
+							<p>¿Buscas contratar música para tu boda? ¿Te gustaría tener al mejor saxofonsita actuando en momentos como el Aperitivo o la Fiesta junto al DJ? No sé quien es el mejor saxofonista de España, pero sin duda me encantaría estar en vuestra boda ofreciendo lo mejor de mi música y carisma, haciendo que sea una fiesta inolvidable y que todos los invitados recureden lo bonito que fue tener música en directo en un día tan especial. He actuado en muchísimas bodas y recibido gran cantidad de peticiones distintas, cada boda es un mundo, por lo que me adaptaré con facilidad para que vuestro día sea como lo habíais soñado, actuando en momentos como el Aperitivo, la Fiesta junto al DJ o la Ceremonia. Abajo os explico mejor cada momento para que podáis contratar vuestro saxofonista de bodas para el momento más especial.</p>
 						</div>
 						<div class="service_list">
 							<ul>
@@ -308,8 +311,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/anchor.svg" alt="" /></span>
-											<h3 class="title">Creative Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Música en la Ceremonia</h3>
+											<p class="text">Escoge entre las baladas más conocidas de mi repertorio o proponme tus favoritas [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -318,9 +321,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Escoge entre las baladas más conocidas de mi repertorio o proponme tus favoritas [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -332,8 +335,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
-											<h3 class="title">Graphic Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Aperitivo o Cóctel</h3>
+											<p class="text">El momento perfecto para un estilo musical moderno y relajado, pudiéndo convertirse en una fiesta [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -342,9 +345,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>El momento perfecto para un estilo musical moderno y relajado, pudiéndo convertirse en una fiesta [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -356,8 +359,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/contact.svg" alt="" /></span>
-											<h3 class="title">UI/UX Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Fiesta DJ & SAXO</h3>
+											<p class="text">Música en directo en la fiesta junto al DJ, en formato DJ y Saxo, la opción más potente y animada que pondrá todo el mundo a bailar [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -366,9 +369,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Música en directo en la fiesta junto al DJ, en formato DJ y Saxo, la opción más potente y animada que pondrá todo el mundo a bailar.</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -380,8 +383,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
-											<h3 class="title">Web Design</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Pool Party</h3>
+											<p class="text">Fiesta en la piscina el día después de la boda, fantástico para esas bodas de verano [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -390,9 +393,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Fiesta en la piscina el día después de la boda, fantástico para esas bodas de verano [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -404,8 +407,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/diagram.svg" alt="" /></span>
-											<h3 class="title">SEO Marketing</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Más ideas para tu boda</h3>
+											<p class="text">Existen muchas otras ideas como el Primer Baile, la Recepción de invitados... [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -414,9 +417,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Existen muchas otras ideas como el Primer Baile, la Recepción de invitados... [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>
@@ -428,8 +431,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
-											<h3 class="title">Mobile App</h3>
-											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+											<h3 class="title">Bodas en el extrangero</h3>
+											<p class="text">Las conocidas como Destination Wedding en inglés, cada boda es una aventura [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 									
@@ -438,9 +441,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+													<p>Las conocidas como Destination Wedding en inglés, cada boda es una aventura [Leer más]</p>
+													<p>...</p>
+													<p>...</p>
 												</div>
 											</div>
 										</div>

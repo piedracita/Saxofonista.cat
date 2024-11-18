@@ -133,13 +133,13 @@
 			</div>
 			<!-- /COUNTER -->
 			
-			<!-- SERVICES -->
+			<!-- EVENTS -->
 			<div class="arlo_tm_section" id="events">
 				<div class="arlo_tm_services">
 					<div class="container">
 						<div class="arlo_tm_main_title">
 							<span>Services</span>
-							<h3>What I Do</h3>
+							<h3>Eventos</h3>
 						</div>
 						<div class="service_list">
 							<ul>
@@ -292,9 +292,171 @@
 					</div>
 				</div>
 			</div>
+			<!-- /EVENTS -->
+
+			<!-- WEDDINGS -->
+			<div class="arlo_tm_section" id="weddings">
+				<div class="arlo_tm_services">
+					<div class="container">
+						<div class="arlo_tm_main_title">
+							<span>Services</span>
+							<h3>Bodas</h3>
+						</div>
+						<div class="service_list">
+							<ul>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/anchor.svg" alt="" /></span>
+											<h3 class="title">Creative Design</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+										
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/1.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+										
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
+											<h3 class="title">Graphic Design</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+										
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/2.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+										
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/contact.svg" alt="" /></span>
+											<h3 class="title">UI/UX Design</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+										
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/3.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+										
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
+											<h3 class="title">Web Design</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+										
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/4.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+										
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/diagram.svg" alt="" /></span>
+											<h3 class="title">SEO Marketing</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+										
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/5.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+										
+									</div>
+								</li>
+								<li>
+									<div class="list_inner">
+										<div class="in">
+											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
+											<h3 class="title">Mobile App</h3>
+											<p class="text">Most common methods for designing websites that work well on desktop...</p>
+										</div>
+										<a class="arlo_tm_full_link" href="#"></a>
+									
+										<!-- Service Popup Start -->
+										<img class="popup_service_image" src="img/service/6.jpg" alt="" />
+										<div class="service_hidden_details">
+											<div class="service_popup_informations">
+												<div class="descriptions">
+													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
+													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
+													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
+												</div>
+											</div>
+										</div>
+										<!-- /Service Popup End -->
+									
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /WEDDINGS -->
 			
 			<!-- /SKILLS -->
-			<div class="arlo_tm_section">
+			<!-- <div class="arlo_tm_section">
 				<div class="arlo_tm_skills">
 					<div class="container">
 						<div class="arlo_tm_main_title">
@@ -383,7 +545,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- /SKILLS -->
 			
 			<!-- PORTFOLIO -->
@@ -564,12 +726,12 @@
 					</div>
 					<div class="content">
 						<div class="container">
-							<h3 class="title">Need help with template customization? Get in touch with us!</h3>
-							<a class="line_effect" href="mailto:marketifyteam@gmail.com">marketifyteam@gmail.com</a>
+							<h3 class="title">Contratar Saxofonista Profesional<br>Precio y Disponibilidad</h3>
+							<a class="line_effect" href="mailto:info@saxofonista.cat">info@saxofonista.cat</a>
 						</div>
 					</div>
 					<div class="play_button">
-						<a class="popup-youtube" href="https://www.youtube.com/watch?v=dk9uNWPP7EA"></a>
+						<a class="popup-youtube" href="https://www.youtube.com/watch?v=_uU7QYIlg_I"></a>
 					</div>
 				</div>
 			</div>
@@ -600,263 +762,15 @@
 			<!-- /PARTNERS -->
 			
 			<!-- TESTIMONIALS -->
-			<div class="arlo_tm_section">
-				<div class="arlo_tm_testimonials">
-					<div class="container">
-						<div class="wrapper">
-							<div class="left">
-								<i class="icon-quote-left"></i>
-								<div class="arlo_tm_main_title">
-									<span>Testimonials</span>
-									<h3>Clients Feedback</h3>
-								</div>
-								<div class="text">
-									<p>Testimonials are one of the most important tools a company can use to show potential customers how valuable their products and services are. Testimonials are a short statement that describes how a product or service worked for a customer. Testimonials can help build trust and credibility with your customers.</p>
-								</div>
-								<div class="arlo_tm_button" data-position="left">
-									<a class="anchor" href="#contact"><span>Contact Me</span></a>
-								</div>
-							</div>
-							<div class="right">
-								<div class="testimonials_list">
-									<ul class="owl-carousel">
-										<li>
-											<div class="list_inner">
-												<div class="stars">
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-												</div>
-												<div class="text">
-													<p>Super easy to customise and set up according to your own brand. Additionally, any enquires you may have, you are delightfully greeted by their support customer care.</p>
-												</div>
-												<div class="details">
-													<div class="image">
-														<div class="main" data-img-url="img/testimonials/1.jpg"></div>
-													</div>
-													<div class="info">
-														<h3>Kevin Walkers</h3>
-														<span>Web Designer</span>
-													</div>
-												</div>
-											</div>
-										</li>
-										<li>
-											<div class="list_inner">
-												<div class="stars">
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-												</div>
-												<div class="text">
-													<p>I rarely like to write reviews, but the Marketify team truly deserve a standing ovation for their customer support, customisation and most importantly is professionalism.</p>
-												</div>
-												<div class="details">
-													<div class="image">
-														<div class="main" data-img-url="img/testimonials/2.jpg"></div>
-													</div>
-													<div class="info">
-														<h3>Jessica Parker</h3>
-														<span>Copywriter</span>
-													</div>
-												</div>
-											</div>
-										</li>
-										<li>
-											<div class="list_inner">
-												<div class="stars">
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-													<span><i class="icon-star-3"></i></span>
-												</div>
-												<div class="text">
-													<p>Wonderful support. Immediate response and they return with an easy fix and clear information. Applied the fix and it worked like a charm. You can definately trust!</p>
-												</div>
-												<div class="details">
-													<div class="image">
-														<div class="main" data-img-url="img/testimonials/3.jpg"></div>
-													</div>
-													<div class="info">
-														<h3>Arnold Smith</h3>
-														<span>ABC Studio</span>
-													</div>
-												</div>
-											</div>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			<?php include "common-php/testimonials/es.html"; ?>
 			<!-- /TESTIMONIALS -->
 			
-			<!-- NEWS -->
-			<div class="arlo_tm_section" id="news">
-				<div class="arlo_tm_news">
-					<div class="container">
-						<div class="arlo_tm_main_title">
-							<span>Blog</span>
-							<h3>Latest Posts</h3>
-						</div>
-						<div class="news_list">
-							<ul>
-								<li>
-									<div class="list_inner">
-										<div class="image">
-											<img src="img/thumbs/4-3.jpg" alt="" />
-											<div class="main" data-img-url="img/news/1.jpg"></div>
-											<a class="arlo_tm_full_link" href="#"></a>
-										</div>
-										<div class="details">
-											<div class="meta">
-												<p>Oct 26, 2024 in <a class="line_effect" href="#">Design</a></p>
-											</div>
-											<h3 class="title"><a class="line_effect_2" href="#">Building portfolio website with Vanilla</a></h3>
-										</div>
-										
-										<!-- News Popup Start -->
-										<div class="news_hidden_details">
-											<div class="news_popup_informations">
-												<div class="text">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
-												</div>
-											</div>
-										</div>
-										<!-- /News Popup End -->
-										
-									</div>
-								</li>
-								<li>
-									<div class="list_inner">
-										<div class="image">
-											<img src="img/thumbs/4-3.jpg" alt="" />
-											<div class="main" data-img-url="img/news/2.jpg"></div>
-											<a class="arlo_tm_full_link" href="#"></a>
-										</div>
-										<div class="details">
-											<div class="meta">
-												<p>Oct 22, 2024 in <a class="line_effect" href="#">Design</a></p>
-											</div>
-											<h3 class="title"><a class="line_effect_2" href="#">The guide to converting Angular apps</a></h3>
-										</div>
-										
-										<!-- News Popup Start -->
-										<div class="news_hidden_details">
-											<div class="news_popup_informations">
-												<div class="text">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
-												</div>
-											</div>
-										</div>
-										<!-- /News Popup End -->
-										
-									</div>
-								</li>
-								<li>
-									<div class="list_inner">
-										<div class="image">
-											<img src="img/thumbs/4-3.jpg" alt="" />
-											<div class="main" data-img-url="img/news/3.jpg"></div>
-											<a class="arlo_tm_full_link" href="#"></a>
-										</div>
-										<div class="details">
-											<div class="meta">
-												<p>Oct 20, 2024 in <a class="line_effect" href="#">Design</a></p>
-											</div>
-											<h3 class="title"><a class="line_effect_2" href="#">Building a tooltip react components</a></h3>
-										</div>
-										
-										<!-- News Popup Start -->
-										<div class="news_hidden_details">
-											<div class="news_popup_informations">
-												<div class="text">
-													<p>Arlo is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.</p>
-													<p>In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.</p>
-													<p>That’s why more companies are not only reevaluating their website’s design but also partnering with Arlo, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.</p>
-												</div>
-											</div>
-										</div>
-										<!-- /News Popup End -->
-										
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- /NEWS -->
+			<!-- BLOG -->
+			<?php include "common-php/blog/es01.html"; ?>
+			<!-- /BLOG -->
 			
-			<!-- FAQ -->
-			<div class="arlo_tm_section">
-				<div class="arlo_tm_faq">
-					<div class="container">
-						<div class="arlo_tm_main_title">
-							<span>FAQ</span>
-							<h3>Frequently Asked Questions</h3>
-						</div>
-						<div class="accordion_wrap">
-							<div class="accordion">
-								<div class="accordion_header">
-									<span class="plus"></span>
-									<p>What is your  hourly rate?</p>
-								</div>
-								<div class="accordion_content">
-									<p>We help our client suceed by creating identities, digital experiences, and printmaterials that communicate clearly, achieve marketing goals, and look fantastic.</p>
-								</div>
-							</div>
-							<div class="accordion">
-								<div class="accordion_header">
-									<span class="plus"></span>
-									<p>What type of projects do you take on?</p>
-								</div>
-								<div class="accordion_content">
-									<p>We help our client suceed by creating identities, digital experiences, and printmaterials that communicate clearly, achieve marketing goals, and look fantastic.</p>
-								</div>
-							</div>
-							<div class="accordion">
-								<div class="accordion_header">
-									<span class="plus"></span>
-									<p>How do you charge for projects?</p>
-								</div>
-								<div class="accordion_content">
-									<p>We help our client suceed by creating identities, digital experiences, and printmaterials that communicate clearly, achieve marketing goals, and look fantastic.</p>
-								</div>
-							</div>
-							<div class="accordion">
-								<div class="accordion_header">
-									<span class="plus"></span>
-									<p>What time-zone do you work in?</p>
-								</div>
-								<div class="accordion_content">
-									<p>We help our client suceed by creating identities, digital experiences, and printmaterials that communicate clearly, achieve marketing goals, and look fantastic.</p>
-								</div>
-							</div>
-							<div class="accordion">
-								<div class="accordion_header">
-									<span class="plus"></span>
-									<p>How often can we communicate?</p>
-								</div>
-								<div class="accordion_content">
-									<p>We help our client suceed by creating identities, digital experiences, and printmaterials that communicate clearly, achieve marketing goals, and look fantastic.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			<!-- COMMON FAQ -->
+			<?php include "common-php/faq/es01.html"; ?>
 			<!-- /FAQ -->
 			
 			<!-- COMMON-BODY-SCRIPTS -->
@@ -868,8 +782,8 @@
 		<!-- /MAINPART -->
 		
 		<!-- CURSOR -->
-		<div class="mouse-cursor cursor-outer"></div>
-		<div class="mouse-cursor cursor-inner"></div>
+		<!--<div class="mouse-cursor cursor-outer"></div>
+		<div class="mouse-cursor cursor-inner"></div>-->
 		<!-- /CURSOR -->
 		
 		<!-- TOTOP -->

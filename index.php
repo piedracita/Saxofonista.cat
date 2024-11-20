@@ -746,17 +746,8 @@
 					<div class="container">
 						<div class="partners_list">
 							<div class="wrapper">
-								<ul class="owl-carousel">
-									<li class="item"><a href="#"><img src="img/partners/1.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/2.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/3.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/4.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/5.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/6.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/7.png" alt="" /></a></li>
-									<li class="item"><a href="#"><img src="img/partners/8.png" alt="" /></a></li>
-								</ul>
-								<p>Empowering 120,000+Businesses with Innovation <a class="line_effect" href="#">trusted clients</a>.</p>
+								<?php include "common-php/brands.html"; ?>
+								<p>Algunas de las marcas para las que hemos puesto música en sus eventos corporativos.</p>
 							</div>
 						</div>
 					</div>

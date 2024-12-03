@@ -2,6 +2,13 @@
 /*	CUSTOM ARNALD
 /*---------------------------------------------------*/
 
+/* Llista amb sangrat */
 .cust_list {
 	padding-left: 5%;
 }
+
+/*Thumbnails dels vídeos de YouTube PER ACABAR*/
+/*.cust_thumb {
+	background-image: linear-gradient(rgba(255,0,0,0), rgba(255,0,0,1));
+
+}*/

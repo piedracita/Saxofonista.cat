@@ -1,0 +1,29 @@
+{
+  "sitemap.xml": {
+    "Protocol": "https",
+    "DomainName": "saxofonista.cat",
+    "Root": "./",
+    "IncludeExt": [
+      ".html",
+      ".php"
+    ],
+    "Exclude": [
+      "common-php/*",
+      "css/*",
+      "img/*",
+      "js/*",
+      "modal/*"
+    ],
+    "TagsToInclude": [
+      "priority",
+      "lastmod"
+    ],
+    "DefaultChangeFrequency": "monthly",
+    "TabCharacters": "\t",
+    "bIncludeWWW": true,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": false,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  }
+}

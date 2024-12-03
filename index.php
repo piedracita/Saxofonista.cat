@@ -296,6 +296,166 @@
 			</div>
 			<!-- /EVENTS -->
 
+			<!-- FOTOS -->
+			<div class="arlo_tm_section" id="photos">
+				<div class="arlo_tm_portfolio">
+					<div class="container">
+						<div class="arlo_tm_main_title">
+							<span>Fotos</span>
+							<h3>Algunas de mis fotos favoritas</h3>
+							<p>Estas són algunas de las fotos que me envían de los eventos en que participo.</p>
+						</div>
+						<div class="portfolio_list">
+							<ul class="gallery_zoom">
+								<li class="youtube">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/2.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Exotrail House</h3>
+											<span>Youtube</span>
+										</div>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=7e90gBu4pas"></a>
+									</div>
+								</li>
+								<li class="vimeo">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/1.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>So Skilled</h3>
+											<span>Vimeo</span>
+										</div>
+										<a class="arlo_tm_full_link popup-vimeo" href="https://vimeo.com/337293658"></a>
+									</div>
+								</li>
+								<li class="soundcloud">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/3.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Cashdash Pro</h3>
+											<span>Soundcloud</span>
+										</div>
+										<a class="arlo_tm_full_link soundcloude_link mfp-iframe audio" href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></a>
+									</div>
+								</li>
+								<li class="popup">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/5.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>The Techouse</h3>
+											<span>Popup</span>
+										</div>
+										<a class="arlo_tm_full_link zoom" href="img/portfolio/5.jpg"></a>
+									</div>
+								</li>
+								<li class="popup">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/4.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Seat Geek</h3>
+											<span>Popup</span>
+										</div>
+										<a class="arlo_tm_full_link zoom" href="img/portfolio/4.jpg"></a>
+									</div>
+								</li>
+								<li class="content">
+									<div class="list_inner">
+										<div class="image">
+											<img src="img/thumbs/1-1.jpg" alt="" />
+											<div class="main" data-img-url="img/portfolio/6.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Eco Krypton</h3>
+											<span>Content</span>
+										</div>
+										<a class="arlo_tm_full_link portfolio_popup" href="#"></a>
+										
+										<!-- Portfolio Popup Start -->
+										<div class="hidden_content">
+										<div class="popup_details">
+											<div class="main_details">
+												<div class="textbox">
+													<p>We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible.</p>
+													<p>Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they phase when they will represent the target product. Building mockups strikes the ideal balance ease of modification.</p>
+												</div>
+												<div class="detailbox">
+													<ul>
+														<li>
+															<span class="first">Client</span>
+															<span>Alvaro Morata</span>
+														</li>
+														<li>
+															<span class="first">Category</span>
+															<span><a href="#">Content</a></span>
+														</li>
+														<li>
+															<span class="first">Date</span>
+															<span>Oct 22, 2024</span>
+														</li>
+													</ul>
+												</div>
+											</div>
+											<div class="additional_images">
+												<ul>
+													<li>
+														<div class="list_inner">
+															<div class="my_image">
+																<img src="img/thumbs/4-2.jpg" alt="" />
+																<div class="main" data-img-url="img/portfolio/7.jpg"></div>
+															</div>
+														</div>
+													</li>
+													<li>
+														<div class="list_inner">
+															<div class="my_image">
+																<img src="img/thumbs/4-2.jpg" alt="" />
+																<div class="main" data-img-url="img/portfolio/8.jpg"></div>
+															</div>
+														</div>
+													</li>
+													<li>
+														<div class="list_inner">
+															<div class="my_image">
+																<img src="img/thumbs/4-2.jpg" alt="" />
+																<div class="main" data-img-url="img/portfolio/9.jpg"></div>
+															</div>
+														</div>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /Portfolio Popup End -->
+										
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /FOTOS -->
+
 			<!-- WEDDINGS -->
 			<div class="arlo_tm_section" id="weddings">
 				<div class="arlo_tm_services">
@@ -597,23 +757,13 @@
 			</div> -->
 			<!-- /SKILLS -->
 			
-			<!-- PORTFOLIO -->
-			<div class="arlo_tm_section" id="photos">
+			<!-- VIDEOS -->
+			<div class="arlo_tm_section" id="videos">
 				<div class="arlo_tm_portfolio">
 					<div class="container">
 						<div class="arlo_tm_main_title">
-							<span>Works</span>
-							<h3>Creative Portfolio</h3>
-						</div>
-						<div class="portfolio_filter">
-							<ul>
-								<li><a href="#" class="current" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".youtube">Youtube</a></li>
-								<li><a href="#" data-filter=".vimeo">Vimeo</a></li>
-								<li><a href="#" data-filter=".soundcloud">Soundcloud</a></li>
-								<li><a href="#" data-filter=".popup">Popup</a></li>
-								<li><a href="#" data-filter=".content">Content</a></li>
-							</ul>
+							<span>Videos</span>
+							<h3>Ver mis vídeos</h3>
 						</div>
 						<div class="portfolio_list">
 							<ul class="gallery_zoom">
@@ -621,142 +771,84 @@
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/2.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/BzrNPC4wbr8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Exotrail House</h3>
-											<span>Youtube</span>
+											<h3>DJ SAX en Madrid House</h3>
+											<span>Actuación DJ Saxo en Madrid para evento corporativo</span>
 										</div>
-										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=7e90gBu4pas"></a>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=BzrNPC4wbr8"></a>
 									</div>
 								</li>
-								<li class="vimeo">
+								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/1.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/12SU3l_0Bmc/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDkKJXrRHRZyZsdHNma3j_M0tG7Bg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>So Skilled</h3>
-											<span>Vimeo</span>
+											<h3>Saxofonista Barcelona</h3>
+											<span>Saxofonista Jazz con Roaming Band en boda en Barcelona</span>
 										</div>
-										<a class="arlo_tm_full_link popup-vimeo" href="https://vimeo.com/337293658"></a>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=12SU3l_0Bmc"></a>
 									</div>
 								</li>
-								<li class="soundcloud">
+								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/3.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/WLHjTr1Yb4o/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Cashdash Pro</h3>
-											<span>Soundcloud</span>
+											<h3>DJ Saxofonista Hotel Meliá</h3>
+											<span>Dj Saxofonista actuando en Hotel Meliá</span>
 										</div>
-										<a class="arlo_tm_full_link soundcloude_link mfp-iframe audio" href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></a>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=WLHjTr1Yb4o"></a>
 									</div>
 								</li>
-								<li class="popup">
+								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/5.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/q6Cv2rxc-s4/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>The Techouse</h3>
-											<span>Popup</span>
+											<h3>Música en Evento de Empresa</h3>
+											<span>Música en directo en evento de empresa con saxofonista</span>
 										</div>
-										<a class="arlo_tm_full_link zoom" href="img/portfolio/5.jpg"></a>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=q6Cv2rxc-s4"></a>
 									</div>
 								</li>
-								<li class="popup">
+								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/4.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/G2oWKNAfKy0/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Seat Geek</h3>
-											<span>Popup</span>
+											<h3>Música en directo para eventos</h3>
+											<span>Música en directo para eventos con saxofonsita y DJ en directo</span>
 										</div>
-										<a class="arlo_tm_full_link zoom" href="img/portfolio/4.jpg"></a>
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=G2oWKNAfKy0"></a>
 									</div>
 								</li>
-								<li class="content">
+								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
 											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/6.jpg"></div>
+											<div class="main" data-img-url="https://i.ytimg.com/vi/ZmmzqVpoLGE/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Eco Krypton</h3>
-											<span>Content</span>
+											<h3>Saxo Electrónico</h3>
+											<span>Saxo electrónico para múisica electrónica tipo Ibiza</span>
 										</div>
-										<a class="arlo_tm_full_link portfolio_popup" href="#"></a>
-										
-										<!-- Portfolio Popup Start -->
-										<div class="hidden_content">
-										<div class="popup_details">
-											<div class="main_details">
-												<div class="textbox">
-													<p>We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible.</p>
-													<p>Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they phase when they will represent the target product. Building mockups strikes the ideal balance ease of modification.</p>
-												</div>
-												<div class="detailbox">
-													<ul>
-														<li>
-															<span class="first">Client</span>
-															<span>Alvaro Morata</span>
-														</li>
-														<li>
-															<span class="first">Category</span>
-															<span><a href="#">Content</a></span>
-														</li>
-														<li>
-															<span class="first">Date</span>
-															<span>Oct 22, 2024</span>
-														</li>
-													</ul>
-												</div>
-											</div>
-											<div class="additional_images">
-												<ul>
-													<li>
-														<div class="list_inner">
-															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
-																<div class="main" data-img-url="img/portfolio/7.jpg"></div>
-															</div>
-														</div>
-													</li>
-													<li>
-														<div class="list_inner">
-															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
-																<div class="main" data-img-url="img/portfolio/8.jpg"></div>
-															</div>
-														</div>
-													</li>
-													<li>
-														<div class="list_inner">
-															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
-																<div class="main" data-img-url="img/portfolio/9.jpg"></div>
-															</div>
-														</div>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-									<!-- /Portfolio Popup End -->
-										
+										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=ZmmzqVpoLGE"></a>
 									</div>
 								</li>
 							</ul>
@@ -764,7 +856,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- /PORTFOLIO -->
+			<!-- /VIDEOS -->
 			
 			<!-- GET QUOTE -->
 			<div class="arlo_tm_section">

@@ -321,9 +321,18 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Escoge entre las baladas más conocidas de mi repertorio o proponme tus favoritas [Leer más]</p>
-													<p>...</p>
-													<p>...</p>
+													<p><i>Haz que tu ceremonia de boda sea inolvidable con la elegancia y la calidez del saxofón. Como saxofonista profesional, transformo cada momento en una experiencia única, interpretando música personalizada que refleja la esencia de tu historia de amor.</i></p>
+													<p>La ceremonia de tu boda merece una banda sonora que capture la emoción y la solemnidad del momento. Ofrezco un servicio exclusivo de música en vivo, diseñado para realzar cada detalle con interpretaciones personalizadas en saxofón.</p>
+													<p>Ya sea que prefieras piezas clásicas, melodías contemporáneas o canciones especiales que tengan un significado único para ustedes, preparo un repertorio completamente a medida. Trabajo junto a los novios para seleccionar y adaptar las piezas musicales, asegurándome de que cada nota esté en perfecta sintonía con la atmósfera del día.</p>
+													<p>Imagina caminar hacia el altar mientras suena tu canción favorita, interpretada con la dulzura y profundidad del saxofón. Desde la entrada de los novios hasta la firma de los votos, cada momento estará acompañado por una música que conmoverá a tus invitados y quedará grabada en su memoria.</p>
+													<h6>Por qué elegir música de saxofón para tu boda:</h6>
+														<ul class="cust_list">
+															<li><b>Elegancia y versatilidad:</b> El saxofón aporta un toque sofisticado y puede adaptarse a cualquier estilo musical.</li>
+															<li><b>Personalización completa:</b> Diseño el repertorio según tus preferencias y el tono que quieras darle a tu ceremonia.</li>
+															<li><b>Profesionalismo garantizado:</b> Con años de experiencia en eventos especiales, aseguro una interpretación impecable y puntualidad en cada detalle.</li>
+														</ul>
+													<p>Haz de tu boda un evento irrepetible. Contáctame para personalizar la música de tu ceremonia y crear juntos una experiencia mágica que quedará en los corazones de todos.</p>
+													<p>Reserva tu fecha ahora y asegura la música perfecta para tu ceremonia. <a href="#contact">[Contáctame aquí]</a>.</p>
 												</div>
 											</div>
 										</div>
@@ -345,9 +354,18 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>El momento perfecto para un estilo musical moderno y relajado, pudiéndo convertirse en una fiesta [Leer más]</p>
-													<p>...</p>
-													<p>...</p>
+													<p><i>Añade un toque único y vibrante al aperitivo de tu boda con mi actuación como saxofonista profesional. Ofrezco una experiencia musical inolvidable, desde los ritmos frescos y modernos del house estilo Ibiza hasta clásicos del jazz, interactuando directamente con tus invitados y creando un ambiente mágico.</i></p>
+													<p>El aperitivo de tu boda es el momento perfecto para sorprender y cautivar a tus invitados con música en vivo. Como saxofonista profesional, aporto energía y estilo a este momento tan especial, ofreciendo interpretaciones que combinan elegancia, diversión y cercanía.</p>
+													<p>Mi repertorio abarca una amplia variedad de géneros, con especial enfoque en música comercial y house al estilo Ibiza. Con un saxofón en mano, me paseo entre los invitados, interactuando con ellos y creando una experiencia dinámica y memorable. Si lo prefieres, también puedo interpretar temas de jazz clásico, bossa nova o incluso actuar en formato banda, adaptándome a las necesidades y estilo de tu evento.</p>
+													<h6>Por qué elegir música de saxofón para el aperitivo de tu boda:</h6>
+													<ul class="cust_list">
+														<li><b>Estilo y energía:</b> Ritmos vibrantes de house y música comercial para dar vida al cóctel.</li>
+														<li><b>Interacción personalizada:</b> Mi actuación se centra en conectar con los invitados, creando una atmósfera cercana y divertida.</li>
+														<li><b>Versatilidad musical:</b> Desde los ritmos modernos de Ibiza hasta los clásicos atemporales del jazz, ofrezco opciones para todos los gustos.</li>
+														<li><b>Formato adaptable:</b> Actuaciones como solista o en formato banda, para ajustarse a la temática y escala de tu boda.</li>
+													</ul>
+													<p>El saxofón tiene la capacidad de transformar cualquier momento en una experiencia única. Ya sea que busques un ambiente relajado y elegante o un toque moderno y animado, mi música es el complemento ideal para tu aperitivo de boda.</p>
+													<p>Haz que el aperitivo de tu boda sea inolvidable. <a href="#contact">[Contáctame ahora]</a> para personalizar tu experiencia musical y garantizar un espectáculo que tus invitados recordarán para siempre.</p>
 												</div>
 											</div>
 										</div>
@@ -369,9 +387,18 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Música en directo en la fiesta junto al DJ, en formato DJ y Saxo, la opción más potente y animada que pondrá todo el mundo a bailar.</p>
-													<p>...</p>
-													<p>...</p>
+													<p><i>Convierte la fiesta de tu boda en un auténtico show con mi actuación como saxofonista junto al DJ. Sets explosivos de música electrónica, ritmos latinos y clásicos disco, interpretados con saxofón electrónico y un impactante espectáculo de luces LED.</i></p>
+													<p>La fiesta de tu boda merece ser un momento único, lleno de energía, música y diversión. Como saxofonista profesional, me uno al DJ para crear un espectáculo inolvidable, con sets vibrantes diseñados para que tú y tus invitados no dejen de bailar.</p>
+													<p>Mi actuación combina la elegancia del saxofón con la potencia de la música electrónica moderna, los ritmos cálidos de la música latina y la nostalgia irresistible de los clásicos de la disco. Utilizo un saxofón electrónico para adaptarme perfectamente a las vibraciones del momento y, si buscas algo aún más impactante, puedo incorporar luces LED al saxofón, añadiendo un toque visual espectacular a cada interpretación.</p>
+													<h6>¿Qué hace único mi servicio para la fiesta de tu boda?</h6>
+													<ul class="cust_list">
+														<li><b>Sets dinámicos y personalizados:</b> Desde lo último en música electrónica hasta los clásicos que todo el mundo ama.</li>
+														<li><b>Energía garantizada:</b> Mi música y presencia en vivo son el motor que transformará tu pista de baile en el epicentro de la diversión.</li>
+														<li><b>Tecnología innovadora:</b> El saxofón electrónico asegura una integración perfecta con el DJ y una calidad de sonido impecable.</li>
+														<li><b>Espectáculo visual:</b> Las luces LED del saxofón crean un show interactivo y sorprendente que dejará a todos fascinados.</li>
+													</ul>
+													<p>Ya sea durante el primer baile o en los momentos más intensos de la fiesta, mi música es la chispa que encenderá el ambiente y hará que tu boda sea recordada como un evento extraordinario.</p>
+													<p>¿Listos para una fiesta de boda inolvidable? <a href="#contact">[Reserva ahora]</a> y asegura un espectáculo de saxofón en vivo que llevará tu celebración al siguiente nivel.</p>
 												</div>
 											</div>
 										</div>
@@ -393,9 +420,18 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Fiesta en la piscina el día después de la boda, fantástico para esas bodas de verano [Leer más]</p>
-													<p>...</p>
-													<p>...</p>
+													<p><i>Haz que la diversión continúe al día siguiente de tu boda con una Pool Party inolvidable. Como DJ Saxofonista, transformo tu fiesta en un evento al más puro estilo Ibiza, con música en directo y todo el equipo necesario para una experiencia única.</i></p>
+													<p>¿Quieres que la celebración de tu boda se extienda un día más con estilo y diversión? Una Pool Party es la opción perfecta para disfrutar con tus amigos y familiares en un ambiente relajado pero vibrante. Como DJ Saxofonista, ofrezco el equilibrio ideal entre música en vivo y sesiones de DJ para crear la banda sonora perfecta de tu día junto a la piscina.</p>
+													<p>Con un repertorio lleno de ritmos frescos y actuales, desde música house hasta los hits más icónicos, mi actuación está diseñada para elevar la energía y transportar a tus invitados al mágico ambiente de Ibiza. Además, me encargo de todo lo necesario para la sonorización de tu fiesta, incluyendo altavoces de alta calidad, mesa de DJ y el equipo completo para garantizar una experiencia impecable.</p>
+													<h6>Por qué elegir un DJ Saxofonista para tu Pool Party:</h6>
+													<ul class="cust_list">
+														<li><b>Estilo Ibiza:</b> Ritmos electrónicos y música en vivo que evocan las mejores fiestas de la isla blanca.</li>
+														<li><b>Ambiente exclusivo:</b> El saxofón en vivo aporta un toque único y sofisticado a la atmósfera.</li>
+														<li><b>Todo incluido:</b> Proporciono todo el equipo de sonido necesario para que no tengas que preocuparte por nada.</li>
+														<li><b>Adaptable a tu estilo:</b> Personalizo la música y el espectáculo según tus preferencias y el ambiente que quieras crear.</li>
+													</ul>
+													<p>Haz que tus invitados se relajen, bailen y disfruten en una Pool Party que será el broche de oro de tu boda. Una experiencia diseñada para crear recuerdos inolvidables y mantener la celebración en lo más alto.</p>
+													<p>¿Listos para una Pool Party épica? <a href="#contact">[Contáctame ahora]</a> y asegura una fiesta llena de música, diversión y estilo Ibiza que dejará a todos encantados.</p>
 												</div>
 											</div>
 										</div>
@@ -417,9 +453,9 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Existen muchas otras ideas como el Primer Baile, la Recepción de invitados... [Leer más]</p>
-													<p>...</p>
-													<p>...</p>
+													<p>¿Tenéis propuestas distintas a las que he detallado? Estaré encantado de escucharlas. Soy flexible y estoy abierto a preparar la actuación para el día de vuestra boda de la manera como lo habéis soñado.</p>
+													<p>Las propuestas que detallo (Ceremonia, Aperitivo y Fiesta) son las más clásicas, sin embargo, si tenéis una idea distinta para vuestra boda en la que podamos añadirle música al saxofón, no dudéis en contactar.</p>
+													<p>Otras ideas que están relacionadas con el mundo de las bodas són las peticiones de matrimono, momentos tamién inolvidables que lo serán más aún con música en directo en saxofón, interpretando baladas, música romática o cualquier petición que sea posible para un momento más singular.</p>
 												</div>
 											</div>
 										</div>
@@ -431,8 +467,8 @@
 									<div class="list_inner">
 										<div class="in">
 											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
-											<h3 class="title">Bodas en el extrangero</h3>
-											<p class="text">Las conocidas como Destination Wedding en inglés, cada boda es una aventura [Leer más]</p>
+											<h3 class="title">Destination Wedding</h3>
+											<p class="text">Saxofonista internacional para Destination Weddings: música en vivo donde tú elijas</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 									
@@ -441,9 +477,19 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>Las conocidas como Destination Wedding en inglés, cada boda es una aventura [Leer más]</p>
-													<p>...</p>
-													<p>...</p>
+													<p><i>Haz que tu Destination Wedding sea aún más especial con la música en vivo de un saxofonista profesional. Con experiencia internacional en España, Francia, Estados Unidos, Grecia, Italia y Alemania, aporto elegancia, emoción y un toque único a bodas en cualquier lugar del mundo.</i></p>
+													<p>Las Destination Weddings son una celebración única, donde el amor y los viajes se unen para crear recuerdos inolvidables. Como saxofonista profesional con experiencia en bodas internacionales, estoy disponible para acompañarte donde sea que elijas dar el “sí, quiero”. Mi objetivo es aportar la música perfecta a tu gran día, creando momentos mágicos que quedarán grabados en la memoria de todos tus invitados.</p>
+													<p>He tenido el honor de actuar en bodas en lugares como Santorini en Grecia, Milán en Italia, la Costa Azul en Francia, Alemania y más, adaptándome siempre a las expectativas y el estilo único de cada pareja. Mi repertorio es versátil, desde interpretaciones solemnes para la ceremonia, hasta música animada para el cóctel o fiesta, ya sea como solista o junto al DJ.</p>
+													<p>Además, hablo varios idiomas (español, francés, inglés y catalán), lo que facilita la comunicación y asegura que cada detalle de la música esté perfectamente coordinado con los organizadores locales y las parejas.</p>
+													<h6>Por qué contratarme para tu Destination Wedding:</h6>
+													<ul class="cust_list">
+														<li><b>Experiencia internacional:</b> Familiaridad con bodas en diferentes culturas y escenarios de ensueño.</li>
+														<li><b>Versatilidad musical:</b> Desde jazz elegante hasta sets dinámicos con DJ y saxofón, adaptados a cada momento.</li>
+														<li><b>Profesionalismo garantizado:</b> Puntualidad, atención al detalle y compromiso con la excelencia.</li>
+														<li><b>Comodidad total:</b> Hablo varios idiomas y trabajo en estrecha colaboración con los novios y organizadores para que todo fluya sin problemas.</li>
+													</ul>
+													<p>Ya sea en una playa paradisíaca, una villa en la Toscana o un viñedo en Francia, estoy listo para llevar mi música donde tú decidas, añadiendo magia y emoción a tu boda.</p>
+													<p>¿Planeando una Destination Wedding inolvidable? <a href="#contact">[Contáctame ahora]</a> para crear la banda sonora perfecta de tu gran día, donde sea que se celebre tu amor.</p>
 												</div>
 											</div>
 										</div>

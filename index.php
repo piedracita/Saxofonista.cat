@@ -70,7 +70,7 @@
 						<div class="about_inner">
 							<div class="left">
 								<div class="image">
-									<img src="img/thumbs/1-1.jpg" alt="" />
+									<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 									<div class="main" data-img-url="img/about/1.jpg"></div>
 								</div>
 							</div>
@@ -148,14 +148,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/anchor.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/anchor.svg" alt="" /></span>
 											<h3 class="title">Eventos Cocktail</h3>
 											<p class="text">La perfecta <strong>amenización</strong> para el saxofón live, desde formatos <strong>Jazz Moderno</strong> a House.</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/1.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/1.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -172,14 +172,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/physics.svg" alt="" /></span>
 											<h3 class="title">Moda y Fashion</h3>
 											<p class="text">Elegante, sofisticado y moderno, estas són las claves para tu <strong>saxo en directo</strong> sea el match perfecto para tu evento [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/2.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/2.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -196,14 +196,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/contact.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/contact.svg" alt="" /></span>
 											<h3 class="title">Eventos DJ & SAX</h3>
 											<p class="text">Desde terrazas <strong>chill-out</strong> a fiestas de <strong>música electrónica</strong>, el <strong></strong> lucirá espectacular [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/3.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/3.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -220,14 +220,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/web.svg" alt="" /></span>
 											<h3 class="title">Saxofonista Jazz</h3>
 											<p class="text">El instrumento más icónico de la <strong>música jazz</strong> es el saxo,te contamos como hacer para tener a un <strong>grupo de jazz</strong> en tu evento.</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/4.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/4.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -244,14 +244,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/diagram.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/diagram.svg" alt="" /></span>
 											<h3 class="title">Grupos de música</h3>
 											<p class="text">Posibilidad de actuar en grupo con <strong>los mejores músicos</strong> y en distintos formatos</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/5.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/5.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -268,14 +268,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/star.svg" alt="" /></span>
 											<h3 class="title">Músico Solista</h3>
 											<p class="text">El formato más versátil y asequible, actuando como <strong>Saxo Solista</strong> junto bases musicales</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 									
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/6.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/6.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -307,80 +307,101 @@
 						</div>
 						<div class="portfolio_list">
 							<ul class="gallery_zoom">
-								<li class="youtube">
+
+							<li class="popup">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/2.jpg"></div>
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Saxo en cóctel de boda con música en directo" />
+											<div class="main" data-img-url="img/photos/sax-cocktail-conga.jpg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Exotrail House</h3>
-											<span>Youtube</span>
+											<h3>Saxo en Cóctel</h3>
+											<span>Saxo en cóctel de boda con música en directo</span>
 										</div>
-										<a class="arlo_tm_full_link popup-youtube" href="https://www.youtube.com/watch?v=7e90gBu4pas"></a>
+										<a class="arlo_tm_full_link zoom" href="img/photos/sax-cocktail-conga.jpg"></a>
 									</div>
 								</li>
-								<li class="vimeo">
-									<div class="list_inner">
-										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/1.jpg"></div>
-										</div>
-										<div class="overlay"></div>
-										<div class="details">
-											<h3>So Skilled</h3>
-											<span>Vimeo</span>
-										</div>
-										<a class="arlo_tm_full_link popup-vimeo" href="https://vimeo.com/337293658"></a>
-									</div>
-								</li>
-								<li class="soundcloud">
-									<div class="list_inner">
-										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/3.jpg"></div>
-										</div>
-										<div class="overlay"></div>
-										<div class="details">
-											<h3>Cashdash Pro</h3>
-											<span>Soundcloud</span>
-										</div>
-										<a class="arlo_tm_full_link soundcloude_link mfp-iframe audio" href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></a>
-									</div>
-								</li>
+
 								<li class="popup">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/5.jpg"></div>
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Saxofonista actuando en boda en Barcelona" />
+											<div class="main" data-img-url="img/photos/saxofonista-boda-barcelona.jpg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>The Techouse</h3>
-											<span>Popup</span>
+											<h3>Boda en Barcelona</h3>
+											<span>Saxofonista actuando en boda en Barcelona</span>
 										</div>
-										<a class="arlo_tm_full_link zoom" href="img/portfolio/5.jpg"></a>
+										<a class="arlo_tm_full_link zoom" href="img/photos/saxofonista-boda-barcelona.jpg"></a>
 									</div>
 								</li>
+
 								<li class="popup">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
-											<div class="main" data-img-url="img/portfolio/4.jpg"></div>
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Saxofonista para bodas en España" />
+											<div class="main" data-img-url="img/photos/sax-wedding-event.jpg"></div>
 										</div>
 										<div class="overlay"></div>
 										<div class="details">
-											<h3>Seat Geek</h3>
-											<span>Popup</span>
+											<h3>Saxo para bodas</h3>
+											<span>Saxofonista para bodas en España</span>
 										</div>
-										<a class="arlo_tm_full_link zoom" href="img/portfolio/4.jpg"></a>
+										<a class="arlo_tm_full_link zoom" href="img/photos/sax-wedding-event.jpg"></a>
 									</div>
 								</li>
-								<li class="content">
+
+								<li class="popup">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Saxofonista para eventos en Madrid" />
+											<div class="main" data-img-url="img/photos/saxo-evento-madrid.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Saxo para eventos</h3>
+											<span>Saxofonista para eventos en Madrid</span>
+										</div>
+										<a class="arlo_tm_full_link zoom" href="img/photos/saxo-evento-madrid.jpg"></a>
+									</div>
+								</li>
+								
+								<li class="popup">
+									<div class="list_inner">
+										<div class="image">
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Saxofonista y cantante para eventos y bodas" />
+											<div class="main" data-img-url="img/photos/saxo-cantante.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Saxo Cantante</h3>
+											<span>Saxofonista y cantante para eventos y bodas</span>
+										</div>
+										<a class="arlo_tm_full_link zoom" href="img/photos/saxo-cantante.jpg"></a>
+									</div>
+								</li>
+
+								<li class="popup">
+									<div class="list_inner">
+										<div class="image">
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="Contratar saxofonista de jazz para boda o evento" />
+											<div class="main" data-img-url="img/photos/sax-jazz-event.jpg"></div>
+										</div>
+										<div class="overlay"></div>
+										<div class="details">
+											<h3>Saxofonista Jazz</h3>
+											<span>Contratar saxofonista de jazz para boda o evento</span>
+										</div>
+										<a class="arlo_tm_full_link zoom" href="img/photos/sax-jazz-event.jpg"></a>
+									</div>
+								</li>
+
+								<!--<li class="content">
+									<div class="list_inner">
+										<div class="image">
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="img/portfolio/6.jpg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -390,7 +411,6 @@
 										</div>
 										<a class="arlo_tm_full_link portfolio_popup" href="#"></a>
 										
-										<!-- Portfolio Popup Start -->
 										<div class="hidden_content">
 										<div class="popup_details">
 											<div class="main_details">
@@ -420,7 +440,7 @@
 													<li>
 														<div class="list_inner">
 															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
+																<img loading="lazy" src="img/thumbs/4-2.jpg" alt="" />
 																<div class="main" data-img-url="img/portfolio/7.jpg"></div>
 															</div>
 														</div>
@@ -428,7 +448,7 @@
 													<li>
 														<div class="list_inner">
 															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
+																<img loading="lazy" src="img/thumbs/4-2.jpg" alt="" />
 																<div class="main" data-img-url="img/portfolio/8.jpg"></div>
 															</div>
 														</div>
@@ -436,7 +456,7 @@
 													<li>
 														<div class="list_inner">
 															<div class="my_image">
-																<img src="img/thumbs/4-2.jpg" alt="" />
+																<img loading="lazy" src="img/thumbs/4-2.jpg" alt="" />
 																<div class="main" data-img-url="img/portfolio/9.jpg"></div>
 															</div>
 														</div>
@@ -445,9 +465,9 @@
 											</div>
 										</div>
 									</div>
-									<!-- /Portfolio Popup End -->
+									
 										
-									</div>
+									</div>-->
 								</li>
 							</ul>
 						</div>
@@ -470,14 +490,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/anchor.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/anchor.svg" alt="" /></span>
 											<h3 class="title">Música en la Ceremonia</h3>
 											<p class="text">Escoge entre las baladas más conocidas de mi repertorio o proponme tus favoritas [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/1.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/1.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -503,14 +523,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/physics.svg" alt="" /></span>
 											<h3 class="title">Aperitivo o Cóctel</h3>
 											<p class="text">El momento perfecto para un estilo musical moderno y relajado, pudiéndo convertirse en una fiesta [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/2.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/2.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -536,14 +556,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/contact.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/contact.svg" alt="" /></span>
 											<h3 class="title">Fiesta DJ & SAXO</h3>
 											<p class="text">Música en directo en la fiesta junto al DJ, en formato DJ y Saxo, la opción más potente y animada que pondrá todo el mundo a bailar [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/3.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/3.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -569,14 +589,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/web.svg" alt="" /></span>
 											<h3 class="title">Pool Party</h3>
 											<p class="text">Fiesta en la piscina el día después de la boda, fantástico para esas bodas de verano [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/4.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/4.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -602,14 +622,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/diagram.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/diagram.svg" alt="" /></span>
 											<h3 class="title">Más ideas para tu boda</h3>
 											<p class="text">Existen muchas otras ideas como el Primer Baile, la Recepción de invitados... [Leer más]</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/5.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/5.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -626,14 +646,14 @@
 								<li>
 									<div class="list_inner">
 										<div class="in">
-											<span class="icon"><img class="svg" src="img/svg/star.svg" alt="" /></span>
+											<span class="icon"><img loading="lazy" class="svg" src="img/svg/star.svg" alt="" /></span>
 											<h3 class="title">Destination Wedding</h3>
 											<p class="text">Saxofonista internacional para Destination Weddings: música en vivo donde tú elijas</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 									
 										<!-- Service Popup Start -->
-										<img class="popup_service_image" src="img/service/6.jpg" alt="" />
+										<img loading="lazy" class="popup_service_image" src="img/service/6.jpg" alt="" />
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
@@ -770,7 +790,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/BzrNPC4wbr8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -784,7 +804,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/12SU3l_0Bmc/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDkKJXrRHRZyZsdHNma3j_M0tG7Bg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -798,7 +818,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/WLHjTr1Yb4o/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -812,7 +832,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/q6Cv2rxc-s4/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -826,7 +846,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/G2oWKNAfKy0/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>
@@ -840,7 +860,7 @@
 								<li class="youtube">
 									<div class="list_inner">
 										<div class="image">
-											<img src="img/thumbs/1-1.jpg" alt="" />
+											<img loading="lazy" src="img/thumbs/1-1.jpg" alt="" />
 											<div class="main" data-img-url="https://i.ytimg.com/vi/ZmmzqVpoLGE/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDJDlmjzvEhwVm4At1rNipqO24nlg"></div>
 										</div>
 										<div class="overlay"></div>

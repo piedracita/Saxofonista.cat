@@ -118,13 +118,13 @@
 								<li>
 									<div class="list_inner">
 										<h3><span class="tm_counter" data-from="0" data-to="270" data-speed="1500">0</span>K+</h3>
-										<span class="title">Cancione en mi repertorio</span>
+										<span class="title">Canciones en mi repertorio</span>
 									</div>
 								</li>
 								<li>
 									<div class="list_inner">
 										<h3><span class="tm_counter" data-from="0" data-to="100" data-speed="1500">0</span>%</h3>
-										<span class="title">Calidad garantizada</span>
+										<span class="title">La mejor calidad musical</span>
 									</div>
 								</li>
 							</ul>
@@ -150,7 +150,7 @@
 										<div class="in">
 											<span class="icon"><img loading="lazy" class="svg" src="img/svg/anchor.svg" alt="" /></span>
 											<h3 class="title">Eventos Cocktail</h3>
-											<p class="text">La perfecta <strong>amenización</strong> para el saxofón live, desde formatos <strong>Jazz Moderno</strong> a House.</p>
+											<p class="text">El saxofón es sinónimo de estilo y distinción. Aporta un toque elegante y sofisticado a tu evento tipo cóctel con música en vivo, adaptada a tus gustos, desde jazz y chill-out hasta electrónica con bases al estilo DJ o en formato banda.</p>
 										</div>
 										<a class="arlo_tm_full_link" href="#"></a>
 										
@@ -159,9 +159,24 @@
 										<div class="service_hidden_details">
 											<div class="service_popup_informations">
 												<div class="descriptions">
-													<p>La perfecta <strong>amenización</strong> para el saxofón live, desde formatos <strong>Jazz Moderno</strong> a House.</p>
-													<p>...</p>
-													<p>...</p>
+													<p>Un cóctel es mucho más que un simple momento social; es la primera impresión de tu evento y la oportunidad perfecta para crear un ambiente inolvidable. La música de saxofón es el complemento ideal para añadir un toque de elegancia y sofisticación, convirtiendo tu cóctel en una experiencia única y memorable.</p>
+													<p>Con un repertorio versátil que incluye jazz clásico, chill-out relajado y música electrónica moderna, mi actuación como saxofonista se adapta perfectamente al estilo de tu evento. Ya sea interpretando sobre bases musicales al estilo DJ o compartiendo escenario con otros músicos en formato banda, el saxofón siempre aporta un aire de exclusividad y emoción que cautivará a tus invitados.</p>
+													<h6>Opciones para tu cóctel:</h6>
+													<ul class="cust_list">
+														<li><b>Jazz clásico y bossa nova:</b> Perfecto para un ambiente relajado y refinado, con melodías que evocan calidez y sofisticación.</li>
+														<li><b>Chill-out elegante:</b> Ideal para mantener un ambiente moderno y relajado, con sonidos suaves que acompañan la conversación y la buena compañía.</li>
+														<li><b>Electrónica con bases estilo DJ:</b> Para un cóctel con un aire más contemporáneo y animado, mezclando música en vivo con ritmos frescos y actuales.</li>
+														<li><b>Formato banda:</b> Si buscas una experiencia musical más completa, puedo actuar junto a otros músicos para crear una atmósfera única y dinámica.</li>
+													</ul>
+													<h6>Opciones para tu cóctel:</h6>
+													<ul class="cust_list">
+														<li><b>Estilo y distinción:</b> El saxofón en vivo añade un toque exclusivo y elegante que eleva el nivel de cualquier evento.</li>
+														<li><b>Versatilidad musical:</b> Desde lo clásico hasta lo moderno, mi repertorio se adapta a tus preferencias y al tono de tu celebración.</li>
+														<li><b>Conexión con el público:</b> Mi actuación se centra en crear un ambiente acogedor, interactuando sutilmente con los invitados y haciendo que todos se sientan parte del momento.</li>
+													</ul>
+													<p>Haz que tu evento tipo cóctel sea recordado por su estilo y buen gusto. Mi música en vivo es la opción perfecta para crear una atmósfera sofisticada y acogedora que tus invitados no olvidarán.</p>
+													<p>¿Buscas la banda sonora perfecta para tu cóctel? [Contáctame ahora] y trabajemos juntos para hacer de tu evento una experiencia inolvidable.</p>
+													
 												</div>
 											</div>
 										</div>

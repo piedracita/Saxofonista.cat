@@ -933,7 +933,7 @@
 			<!-- /TESTIMONIALS -->
 			
 			<!-- BLOG -->
-			<?php include "common-php/blog/es01.html"; ?>
+			<!-- Incloure php del blog ubicat a common php -->
 			<!-- /BLOG -->
 			
 			<!-- COMMON FAQ -->

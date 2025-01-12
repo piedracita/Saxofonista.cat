@@ -962,24 +962,61 @@
 			<!-- /FAQ -->
 			
 			<!-- COMMON-BODY-SCRIPTS -->
-			<?php include "common-php/contact/es.html"; ?>
+			<?php include "common-php/footer/es.html"; ?>
 			<!-- COMMON-BODY-SCRIPTS END -->
-			
+
+			<!-- CONTACT -->
+			<div class="arlo_tm_section" id="footer">
+				<div class="footer-links">
+					<div class="container">
+						<div class="inner">
+							<div class="left">
+								<ul>
+									<li>
+										<div class="list_inner">
+											<div class="info">
+												<h6>Disponible en toda España:</h6>
+												<ul>
+													<li>Saxofonista Barcelona</li>
+													<li>Saxofonista Madrid</li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="list_inner">
+											<div class="info">
+												<h6>Principales servicios:</h6>
+												<ul>
+													<li>Saxofonista para bodas</li>
+													<li>Saxofonista para eventos</li>
+													<li>Violín y Saxo</li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="list_inner">
+											<div class="info">
+												<h6>Estilos de música:</h6>
+												<ul>
+													<li>Saxofonista de jazz</li>
+													<li>Saxofonista electrónico</li>
+													<li>DJ y Saxo</li>
+												</ul>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>					
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /CONTACT -->
 			
 		</div>
 		<!-- /MAINPART -->
-		
-		<!-- CURSOR -->
-		<!--<div class="mouse-cursor cursor-outer"></div>
-		<div class="mouse-cursor cursor-inner"></div>-->
-		<!-- /CURSOR -->
-		
-		<!-- TOTOP -->
-		<div class="progressbar">
-			<a href="#"><span class="text">To Top</span></a>
-			<span class="line"></span>
-		</div>
-		<!-- /TOTOP -->
 		
 	</div>
 	<!-- / WRAPPER ALL -->

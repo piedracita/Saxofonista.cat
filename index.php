@@ -27,16 +27,6 @@
     </head>
 
     <body class="home">
-        
-        <!-- PRELOADER -->
-        <div id="preloader" data-timeout="2000" class="odd preloader counter">
-            <div data-aos="fade-up" data-aos-delay="500" class="row justify-content-center text-center items">
-                <div data-percent="100" class="radial">
-                    <span></span>
-                </div>
-            </div>
-        </div>
-        <!-- /PRELOADER -->
 
         <!-- COMMON-HEADER -->
         <?php include "common-php/header/es.html"; ?>
@@ -60,11 +50,11 @@
                                 <div class="center text-left text-md-center">
 
                                     <!-- Content -->
-                                    <h1 data-aos="zoom-in" data-aos-delay="2000" class="title effect-static-text"><span class="featured"><span>SAX</span>CAT</span></h1>
-                                    <p data-aos="zoom-in" data-aos-delay="2400" class="description mr-auto ml-auto">Contratar saxofonista para bodas y eventos en España, consulta precios y disponibilidad del mejor saxofonista para una fiesta espectacular. Disponible en Barcelona, Madrid, Valencia y toda España.</p>
+                                    <h1 data-aos="zoom-in" class="title effect-static-text"><span class="featured"><span>SAX</span>CAT</span></h1>
+                                    <p data-aos="zoom-in" data-aos-delay="500" class="description mr-auto ml-auto">Contratar saxofonista para bodas y eventos en España, consulta precios y disponibilidad del mejor saxofonista para una fiesta espectacular. Disponible en Barcelona, Madrid, Valencia y toda España.</p>
                                    
                                     <!-- Action -->
-                                    <div data-aos="fade-up" data-aos-delay="2800" class="buttons">
+                                    <div data-aos="fade-up" data-aos-delay="1000" class="buttons">
                                         <div class="d-sm-inline-flex">
                                             <a href="#contact" class="smooth-anchor mt-4 btn primary-button">CONTACTA</a>
                                             <!--<a href="#features" class="smooth-anchor ml-sm-4 mt-4 btn outline-button">READ MORE</a>-->

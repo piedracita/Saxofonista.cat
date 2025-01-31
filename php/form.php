@@ -1,9 +1,9 @@
 <?php
-$recipient = 'your@email.com'; // Enter the recipient's email address here.
-$subject   = 'New contact sent from the website.'; // Enter the subject of the email here.
-$success   = 'Your message was sent successful. Thanks.';
-$error     = 'Sorry. We were unable to send your message.';
-$invalid   = 'Validation errors occurred. Please confirm the fields and submit it again.';
+$recipient = 'info@saxofonista.cat'; // Enter the recipient's email address here.
+$subject   = 'Saxofonista.cat - Contact Form'; // Enter the subject of the email here.
+$success   = 'Message sent successful. // El mensaje se ha enviado.';
+$error     = 'We couldn`t send your message. No hemos podido enviar tu mensaje.';
+$invalid   = 'Error. Please confirm the fields and submit it again. // Llena los campos y vuelve a enviar el mensaje.';
 
 if ( ! empty( $_POST ) ) {
 

@@ -9,6 +9,7 @@
     ],
     "Exclude": [
       "common-php/*",
+      "php/*",
       "css/*",
       "img/*",
       "js/*",

@@ -18,7 +18,7 @@
 
         <meta name="description" content="Contratar saxofonista para bodas y eventos en España, consulta precios y disponibilidad del mejor saxofonista para una fiesta espectacular. Disponible en Barcelona, Madrid, Valencia y toda España.">
         <meta name="keywords" content="contratar, saxofonista, Profesional, bodas, eventos, españa">
-	    <meta name="author" content="Saxofonista">
+	    <meta name="author" content="SAXCAT">
 
         <!-- COMMON-OPENGRAPH -->
         <?php include "common-php/opengraph/es.html"; ?>
@@ -104,108 +104,9 @@
         <?php include "common-php/about/es.html"; ?>
         <!-- /ABOUT -->
 
-        <!-- SAXOFONISTA PARA EVENTOS -->
-        <section id="events" class="section-3 odd offers">
-            <div class="container">
-                <div class="row intro">
-                    <div class="col-12 col-md-9 align-self-center text-center text-md-left">
-                        <span class="pre-title m-auto ml-md-0">Servicios</span>
-                        <h2>Saxofonista para <span class="featured"><span>Eventos</span></span></h2>
-                        <p>Nos encanta encontrar momentos para celebrar, ¿verdad? Existen muchísimos tipos de eventos, y en todos ellos la <strong>música en directo</strong> juega un papel súper importante. En esta parte os detallo algunos de los <strong>eventos con saxofonista</strong> que más me solicitan, por supuesto adaptando el repertorio e interpretación para cada tipo de show. Inspírate para crear el evento perfecto y, por supuesto, para cualquier duda nos puedes <b>contactar directamente</b>, trataremos de ayudarte y ofrecerte el mejor servicio.</p>
-                    </div>
-                    <div class="col-12 col-md-3 align-self-end">
-                        <a href="#" class="btn mx-auto mr-md-0 ml-md-auto outline-button">VER TODO</a>
-                    </div>
-                </div>
-                <div class="row justify-content-center items">
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-organization"></i>
-                            <h4>Eventos Cocktail</h4>
-                            <p>El saxofón es sinónimo de estilo y distinción. Aporta un toque elegante y sofisticado a tu evento cóctel con música en vivo.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-briefcase"></i>
-                            <h4>Moda y Fashion</h4>
-                            <p>Refleja la esencia de tu marca con una experiencia musical a medida. Colaboro contigo para diseñar la atmósfera sonora perfecta para tu evento de moda.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-chart"></i>
-                            <h4>Fiestas DJ & SAX</h4>
-                            <p>Una experiencia sonora única con nuestro combo DJ y Saxo. Fusionamos la energía de la música electrónica con la improvisación melódica del saxofón en vivo.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-plane"></i>
-                            <h4>Saxofonisa Jazz</h4>
-                            <p>El instrumento más icónico de la <strong>música jazz</strong> es el saxo,te contamos como hacer para tener a un <strong>grupo de jazz</strong> en tu evento.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-globe-alt"></i>
-                            <h4>Grupos de música</h4>
-                            <p>Creamos la banda sonora perfecta para tu evento soñado. Ofrecemos un servicio musical personalizado, adaptando nuestro formato y repertorio a tus gustos y necesidades.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-drawer"></i>
-                            <h4>Músico Solista</h4>
-                            <p>Disfruta del saxofón en directo con mi propuesta como solista, acompañado de pistas o en formato tipo DJ/Saxo. Un formato versátil que abarca diferentes estilos musicales.</p>
-
-                            <!-- Action -->
-                            <div class="buttons">
-                                <div class="d-sm-inline-flex">
-                                    <a href="#" class="mt-4 btn outline-button">LEER MÁS</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- /SAXOFONISTA PARA EVENTOS -->
+        <!-- COMMON-EVENTS -->
+        <?php include "common-php/events/es.html"; ?>
+        <!-- /COMMON-EVENTS -->
 
         <!-- GALLERY -->
         <section id="gallery" class="section-2 offers">

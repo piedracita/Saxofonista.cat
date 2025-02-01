@@ -14,11 +14,11 @@
         <?php include "common-php/localization/main.html"; ?>
         <!-- /COMMON-LOCALIZATION -->
 
-        <title>NEXGEN - Business, Consulting, Finance, Insurance, Startup and Technology</title>
+        <title>SAXCAT | Saxofonista.cat | Error 404</title>
 
-        <meta name="description" content="Business, Consulting, Finance, Insurance, Startup and Technology">
-        <meta name="subject" content="Business, Consulting, Finance, Insurance, Startup and Technology">
-        <meta name="author" content="Codings">
+        <meta name="description" content="Contratar saxofonsita para eventos especiales y bodas. SAXCAT, saxofonista.cat">
+        <meta name="keywords" content="saxofonista, saxcat, contrtar, saxo, bodas, eventos">
+        <meta name="author" content="SAXCAT">
         
         <!-- COMMON-OPENGRAPH -->
         <?php include "common-php/opengraph/es.html"; ?>

@@ -16,7 +16,7 @@
 
         <title>SAXCAT | Saxofonista.cat | Error 404</title>
 
-        <meta name="description" content="Contratar saxofonsita para eventos especiales y bodas. SAXCAT, saxofonista.cat">
+        <meta name="description" content="Contratar saxofonista para eventos especiales y bodas. SAXCAT, saxofonista.cat">
         <meta name="keywords" content="saxofonista, saxcat, contrtar, saxo, bodas, eventos">
         <meta name="author" content="SAXCAT">
         

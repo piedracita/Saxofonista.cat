@@ -73,7 +73,7 @@
                 <div class="row text-center intro">
                     <div class="col-12">
                         <h2>Fotos</h2>
-                        <p>Algunas de mis fotos favoritas actuando como saxofonsita en eventos y bodas.</p>
+                        <p>Algunas de mis fotos favoritas actuando como saxofonista en eventos y bodas.</p>
                     </div>
                 </div>
                 <div class="row gallery justify-content-center items">

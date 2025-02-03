@@ -55,7 +55,7 @@
                                         <li class="breadcrumb-item active" aria-current="page">Saxofonista para Bodas</li>
                                     </ol>
                                 </nav>-->
-                                <h1 class="mb-0 title effect-static-text">Saxofonsita para bodas</h1>
+                                <h1 class="mb-0 title effect-static-text">Saxofonista para bodas</h1>
                                 <p>Si estás buscando incorporar música en directo a tu boda y te gustaría contar con saxofonista, tanto si es como músico solista o en grupo, estás en el lugar indicado. A continuación te detallamos las opciones más solicitadas para añadir música en directo en saxofón para tu celebración.</p>
                             </div>
                         </div>

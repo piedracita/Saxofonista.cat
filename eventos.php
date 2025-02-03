@@ -55,7 +55,7 @@
                                         <li class="breadcrumb-item active" aria-current="page">Saxofonista para Eventos</li>
                                     </ol>
                                 </nav>
-                                <h1 class="mb-0 title effect-static-text">Saxofonsita para eventos</h1>
+                                <h1 class="mb-0 title effect-static-text">Saxofonista para eventos</h1>
                             </div>
                         </div>
                     </div>

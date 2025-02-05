@@ -67,38 +67,13 @@
         <!-- /BANNER -->
 
 
-        <!-- GALLERY -->
-        <section id="gallery" class="section-2 offers">
-            <div class="container">
-                <div class="row text-center intro">
-                    <div class="col-12">
-                        <h2>Fotos</h2>
-                        <p>Algunas de mis fotos favoritas actuando como saxofonista en eventos y bodas.</p>
-                    </div>
-                </div>
-                <div class="row gallery justify-content-center items">
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxophonist-wedding-cocktail-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxophonist-wedding-cocktail-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxo-eventos-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxo-eventos-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/events-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/events-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/electronic-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/electronic-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxo-bodas-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxo-bodas-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/wedding-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/wedding-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                </div>
-            </div>
-        </section>
-        <!-- /GALLERY -->
+        <!-- PHOTOS LATEST -->
+        <?php include "common-php/gallery/photos/latest-es.html"; ?>
+        <!-- /PHOTOS LATEST -->
+
+        <!-- PHOTOS LATEST -->
+        <?php include "common-php/gallery/photos/djsax-es.html"; ?>
+        <!-- /PHOTOS LATEST -->
 
         <!-- COMMON-CONTACT -->
         <?php include "common-php/contact/es.html"; ?>

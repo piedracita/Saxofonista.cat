@@ -41,9 +41,10 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <video class="full-image to-bottom" data-mask="70" playsinline autoplay muted loop>
+                        <img src="assets/images/bg-1.jpg" alt="Saxofonista SAXCAT Barcelona" class="full-image" data-mask="40">
+                        <!--<video class="full-image to-bottom" data-mask="70" playsinline autoplay muted loop>
                             <source src="assets/videos/city.mp4" type="video/mp4" />
-                        </video>
+                        </video>-->
 
                         <div class="slide-content row">
                             <div class="col-12 d-flex justify-content-start justify-content-md-center inner">
@@ -108,38 +109,9 @@
         <?php include "common-php/events/es.html"; ?>
         <!-- /COMMON-EVENTS -->
 
-        <!-- GALLERY -->
-        <section id="gallery" class="section-2 offers">
-            <div class="container">
-                <div class="row text-center intro">
-                    <div class="col-12">
-                        <h2>Fotos</h2>
-                        <p>Algunas de mis fotos favoritas actuando como saxofonista en eventos y bodas.</p>
-                    </div>
-                </div>
-                <div class="row gallery justify-content-center items">
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxophonist-wedding-cocktail-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxophonist-wedding-cocktail-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxo-eventos-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxo-eventos-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/events-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/events-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/electronic-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/electronic-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/saxo-bodas-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/saxo-bodas-01.jpg" alt="Project" class="w-100">
-                    </a>
-                    <a class="col-12 col-md-6 col-lg-4 item" href="assets/images/gallery/wedding-sax-01.jpg">
-                        <img loading="lazy" src="assets/images/gallery/wedding-sax-01.jpg" alt="Project" class="w-100">
-                    </a>
-                </div>
-            </div>
-        </section>
-        <!-- /GALLERY -->
+        <!-- PHOTOS LATEST -->
+        <?php include "common-php/gallery/photos/latest-es.html"; ?>
+        <!-- /PHOTOS LATEST -->
 
         <!-- SAXOFONISTA PARA BODAS -->
         <?php include "common-php/weddings/es.html"; ?>

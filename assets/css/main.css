@@ -2215,6 +2215,13 @@ header .navbar-expand .navbar-brand .featured .first {
 6. Slider
 ----------------------------------------------*/
 
+/* CUSTOM ARNALD */
+p.description {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+/* CUSTOM ARNALD END */
+
 /* #region Slider */
 
 .slider-h-auto {

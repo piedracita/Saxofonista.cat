@@ -374,9 +374,9 @@
         <?php include "common-php/about/es.html"; ?>
         <!-- /ABOUT -->
 
-        <!-- SAXOFONISTA PARA BODAS -->
-        <?php include "common-php/weddings/es.html"; ?>
-        <!-- /SAXOFONISTA PARA BODAS -->
+        <!-- SAXOFONISTA PARA EVENTOS -->
+        <?php include "common-php/dividers/events/01-es.html"; ?>
+        <!-- /SAXOFONISTA PARA EVENTOS -->
 
         <!-- COMMON-CONTACT -->
         <?php include "common-php/contact/es.html"; ?>

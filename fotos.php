@@ -71,9 +71,13 @@
         <?php include "common-php/gallery/photos/latest-es.html"; ?>
         <!-- /PHOTOS LATEST -->
 
-        <!-- PHOTOS LATEST -->
-        <?php include "common-php/gallery/photos/djsax-es.html"; ?>
-        <!-- /PHOTOS LATEST -->
+        <!-- PHOTOS DJSAX -->
+        <?php include "common-php/gallery/photos/djsaxparty-es.html"; ?>
+        <!-- /PHOTOS DJSAX -->
+
+        <!-- PHOTOS JAZZ -->
+        <?php include "common-php/gallery/photos/jazz-es.html"; ?>
+        <!-- /PHOTOS JAZZ -->
 
         <!-- COMMON-CONTACT -->
         <?php include "common-php/contact/es.html"; ?>

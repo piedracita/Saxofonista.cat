@@ -67,9 +67,17 @@
         <!-- /BANNER -->
 
 
-        <!-- VIDEOS -->
-        <?php include "common-php/gallery/videos/01-es.html"; ?>
-        <!-- VIDEOS -->
+        <!-- VIDEOS-LATEST -->
+        <?php include "common-php/gallery/videos/latest-01-es.html"; ?>
+        <!-- /VIDEOS-LATEST -->
+
+        <!-- VIDEOS-WEDDINGS -->
+        <?php include "common-php/gallery/videos/weddings-01-es.html"; ?>
+        <!-- /VIDEOS-WEDDINGS -->
+
+        <!-- VIDEOS-IBIZASUNSET -->
+        <?php include "common-php/gallery/videos/ibizasunset-01-es.html"; ?>
+        <!-- /VIDEOS-IBIZASUNSET -->
 
         <!-- COMMON-CONTACT -->
         <?php include "common-php/contact/es.html"; ?>

@@ -41,7 +41,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-1.jpg" alt="Saxofonista SAXCAT Barcelona" class="full-image" data-mask="40">
+                        <img loading="lazy" src="assets/images/bg-1.jpg" alt="Saxofonista SAXCAT Barcelona" class="full-image" data-mask="40">
                         <!--<video class="full-image to-bottom" data-mask="70" playsinline autoplay muted loop>
                             <source src="assets/videos/city.mp4" type="video/mp4" />
                         </video>-->
@@ -106,7 +106,7 @@
         <!-- /ABOUT -->
 
         <!-- COMMON-EVENTS -->
-        <?php include "common-php/events/es.html"; ?>
+        <?php include "common-php/dividers/events/01-es.html"; ?>
         <!-- /COMMON-EVENTS -->
 
         <!-- PHOTOS LATEST -->
@@ -114,11 +114,11 @@
         <!-- /PHOTOS LATEST -->
 
         <!-- SAXOFONISTA PARA BODAS -->
-        <?php include "common-php/weddings/es.html"; ?>
+        <?php include "common-php/dividers/weddings/01-es.html"; ?>
         <!-- /SAXOFONISTA PARA BODAS -->
 
         <!-- VIDEOS -->
-        <?php include "common-php/gallery/videos/01-es.html"; ?>
+        <?php include "common-php/gallery/videos/latest-01-es.html"; ?>
         <!-- VIDEOS -->
 
         <!-- /TESTIMONIALS -->

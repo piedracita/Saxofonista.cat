@@ -50,7 +50,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">
+                        <img loading="lazy" src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">
 
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
@@ -102,7 +102,7 @@
                 <div data-aos="fade-up" class="col-12 col-md-4 item">
                     <div class="card">
                         <div class="col-12">
-                            <img src="assets/images/gallery-1.jpg" alt="Logo" class="logo">
+                            <img loading="lazy" src="assets/images/gallery-1.jpg" alt="Logo" class="logo">
                             <h4>Related 1</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
                             <a href="#">Read more</a>
@@ -112,7 +112,7 @@
                 <div data-aos="fade-up" class="col-12 col-md-4 item">
                     <div class="card">
                         <div class="col-12">
-                            <img src="assets/images/gallery-2.jpg" alt="Logo" class="logo">
+                            <img loading="lazy" src="assets/images/gallery-2.jpg" alt="Logo" class="logo">
                             <h4>Related 2</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
                             <a href="#">Read more</a>
